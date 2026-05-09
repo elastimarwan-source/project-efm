@@ -1,0 +1,34 @@
+question,choix1,choix2,choix3,choix4,reponse,niveau
+
+Qui est le président de la France ?,Macron,Biden,Poutine,Trump,Macron,facile
+Qui est le président de la Russie ?,Poutine,Macron,Zelensky,Biden,Poutine,facile
+Qui est le roi du Maroc ?,Mohammed VI,Hassan II,Salman,Erdogan,Mohammed VI,facile
+Quand a commencé la Deuxième Guerre mondiale ?,1939,1945,1914,1920,1939,facile
+Quel pays a gagné la Coupe du Monde 2022 ?,France,Argentine,Brésil,Croatie,Argentine,facile
+Capitale de l’Allemagne ?,Berlin,Munich,Hambourg,Francfort,Berlin,facile
+Python est ?,Langage,Jeu,Animal,Voiture,Langage,facile
+Combien de joueurs dans une équipe de football ?,9,10,11,12,11,facile
+Qui est CR7 ?,Messi,Ronaldo,Neymar,Mbappé,Ronaldo,facile
+Quel pays a utilisé la bombe atomique en 1945 ?,USA,Russie,France,Chine,USA,facile
+
+Qui était le dirigeant de l’Allemagne pendant la Deuxième Guerre mondiale ?,Hitler,Staline,Churchill,Napoléon,Hitler,moyen
+Qui était président des USA pendant la Seconde Guerre mondiale ?,Roosevelt,Trump,Biden,Obama,Roosevelt,moyen
+Quand a commencé la Première Guerre mondiale ?,1914,1918,1939,1945,1914,moyen
+Quel pays a déclenché la Première Guerre mondiale ?,Allemagne,France,Italie,Espagne,Allemagne,moyen
+Qui est président de l’Ukraine ?,Zelensky,Poutine,Macron,Biden,Zelensky,moyen
+Capitale des États-Unis ?,New York,Washington,Chicago,Los Angeles,Washington,moyen
+En Python, quel mot sert à créer une fonction ?,if,for,def,class,def,moyen
+Qui a gagné l’Euro 2016 ?,France,Portugal,Italie,Espagne,Portugal,moyen
+Quel pays a gagné CAN 2023 ?,Maroc,Sénégal,Algérie,Côte d’Ivoire,Côte d’Ivoire,moyen
+Qui était le dirigeant de l’URSS pendant la guerre mondiale ?,Staline,Lenine,Poutine,Gorbatchev,Staline,moyen
+
+Qui a créé Python ?,Bill Gates,Guido van Rossum,Elon Musk,Mark Zuckerberg,Guido van Rossum,difficile
+Quelle guerre opposait USA et URSS sans combat direct ?,Guerre mondiale,Guerre froide,Guerre civile,Guerre du Golfe,Guerre froide,difficile
+Qui était le Premier ministre du Royaume-Uni pendant la Deuxième Guerre mondiale ?,Churchill,Macron,Hitler,Roosevelt,Churchill,difficile
+Quel pays a perdu la Coupe du Monde 2022 en finale ?,France,Croatie,Brésil,Portugal,France,difficile
+Quel symbole sert pour commentaire en Python ?,//,#,<!-- -->,**,#,difficile
+Capitale du Canada ?,Toronto,Ottawa,Vancouver,Montréal,Ottawa,difficile
+Quelle fonction convertit en entier en Python ?,float(),str(),int(),bool(),int(),difficile
+Qui était l’empereur français pendant plusieurs guerres en Europe ?,Napoléon,Louis XIV,Macron,De Gaulle,Napoléon,difficile
+Quand s’est terminée la Deuxième Guerre mondiale ?,1945,1939,1918,1950,1945,difficile
+Quel type Python stocke du texte ?,int,float,str,list,str,difficile
