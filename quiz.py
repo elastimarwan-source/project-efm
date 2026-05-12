@@ -229,7 +229,7 @@ else:
 
         st.write(" Votre réponse :", rep["Votre réponse"])
 
-        st.write("✅$ Bonne réponse :", rep["Bonne réponse"])
+        st.write("✅ Bonne réponse :", rep["Bonne réponse"])
 
         st.write("---------------------------")
 
